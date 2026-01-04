@@ -1,0 +1,11 @@
+1 rina safitri 2 2 Aktif
+2 rina safitri 8 3 Aktif
+3 rina safitri 10 4 Aktif
+4 rina safitri 1 5 Aktif
+5 ahmad fauzi 17 2 Aktif
+6 ahmad fauzi 19 4 Aktif
+7 ahmad fauzi 17 2 Aktif
+8 ahmad fauzi 11 2 Aktif
+9 hendra wijaya 6 1 Aktif
+10 hendra wijaya 13 3 Aktif
+11 hendra wijaya 12 2 Aktif

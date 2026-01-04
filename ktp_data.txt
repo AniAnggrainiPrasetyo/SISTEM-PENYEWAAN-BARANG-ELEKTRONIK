@@ -1,0 +1,299 @@
+=== Data KTP ke-1 ===
+NIK               : 320101000001
+Nama              : Lisa Maharani
+Tempat Lahir      : Jogja
+Tanggal Lahir     : 12-01-2000
+Alamat            : Jogja
+RT/RW             : 01/01
+Kel/Desa          : Banguntapan
+Kecamatan         : Bantul
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : IRT
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-2 ===
+NIK               : 320101000002
+Nama              : Andi Pratama
+Tempat Lahir      : Sleman
+Tanggal Lahir     : 05-03-1999
+Alamat            : Sleman
+RT/RW             : 02/03
+Kel/Desa          : Condongcatur
+Kecamatan         : Depok
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-3 ===
+NIK               : 320101000003
+Nama              : Rina Safitri
+Tempat Lahir      : Bantul
+Tanggal Lahir     : 18-07-2001
+Alamat            : Bantul
+RT/RW             : 03/04
+Kel/Desa          : Imogiri
+Kecamatan         : Imogiri
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Pelajar
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-4 ===
+NIK               : 320101000004
+Nama              : Budi Santoso
+Tempat Lahir      : Klaten
+Tanggal Lahir     : 22-11-1995
+Alamat            : Klaten
+RT/RW             : 04/02
+Kel/Desa          : Trucuk
+Kecamatan         : Trucuk
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Karyawan Swasta
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-5 ===
+NIK               : 320101000005
+Nama              : Dewi Lestari
+Tempat Lahir      : Solo
+Tanggal Lahir     : 09-09-1998
+Alamat            : Solo
+RT/RW             : 05/01
+Kel/Desa          : Laweyan
+Kecamatan         : Laweyan
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Admin
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-6 ===
+NIK               : 320101000006
+Nama              : Fajar Nugroho
+Tempat Lahir      : Magelang
+Tanggal Lahir     : 14-02-1997
+Alamat            : Magelang
+RT/RW             : 06/02
+Kel/Desa          : Mertoyudan
+Kecamatan         : Mertoyudan
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Guru
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-7 ===
+NIK               : 320101000007
+Nama              : Siti Aminah
+Tempat Lahir      : Jogja
+Tanggal Lahir     : 01-05-2002
+Alamat            : Jogja
+RT/RW             : 07/03
+Kel/Desa          : Kotagede
+Kecamatan         : Kotagede
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-8 ===
+NIK               : 320101000008
+Nama              : Rizky Hidayat
+Tempat Lahir      : Bantul
+Tanggal Lahir     : 30-08-1996
+Alamat            : Bantul
+RT/RW             : 08/04
+Kel/Desa          : Sewon
+Kecamatan         : Sewon
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Wirausaha
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-9 ===
+NIK               : 320101000009
+Nama              : Putri Ayuningtyas
+Tempat Lahir      : Sleman
+Tanggal Lahir     : 17-12-2000
+Alamat            : Sleman
+RT/RW             : 09/02
+Kel/Desa          : Mlati
+Kecamatan         : Mlati
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Kasir
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-10 ===
+NIK               : 320101000010
+Nama              : Ahmad Fauzi
+Tempat Lahir      : Kulon Progo
+Tanggal Lahir     : 25-06-1994
+Alamat            : Kulon Progo
+RT/RW             : 10/01
+Kel/Desa          : Wates
+Kecamatan         : Wates
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Sopir
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-11 ===
+NIK               : 320101000011
+Nama              : Nur Aini
+Tempat Lahir      : Purworejo
+Tanggal Lahir     : 03-03-1999
+Alamat            : Purworejo
+RT/RW             : 11/02
+Kel/Desa          : Kutoarjo
+Kecamatan         : Kutoarjo
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Penjahit
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-12 ===
+NIK               : 320101000012
+Nama              : Dimas Arya
+Tempat Lahir      : Jogja
+Tanggal Lahir     : 10-10-1998
+Alamat            : Jogja
+RT/RW             : 12/03
+Kel/Desa          : Umbulharjo
+Kecamatan         : Umbulharjo
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Programmer
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-13 ===
+NIK               : 320101000013
+Nama              : Wulan Sari
+Tempat Lahir      : Bantul
+Tanggal Lahir     : 08-04-2001
+Alamat            : Bantul
+RT/RW             : 13/04
+Kel/Desa          : Pleret
+Kecamatan         : Pleret
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Pelajar
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-14 ===
+NIK               : 320101000014
+Nama              : Agus Setiawan
+Tempat Lahir      : Sragen
+Tanggal Lahir     : 19-09-1993
+Alamat            : Sragen
+RT/RW             : 14/01
+Kel/Desa          : Gondang
+Kecamatan         : Gondang
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Petani
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-15 ===
+NIK               : 320101000015
+Nama              : Maya Anggraini
+Tempat Lahir      : Jogja
+Tanggal Lahir     : 27-07-2000
+Alamat            : Jogja
+RT/RW             : 15/02
+Kel/Desa          : Tegalrejo
+Kecamatan         : Tegalrejo
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Content Creator
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-16 ===
+NIK               : 320101000016
+Nama              : Arif Rahman
+Tempat Lahir      : Sleman
+Tanggal Lahir     : 02-02-1997
+Alamat            : Sleman
+RT/RW             : 16/03
+Kel/Desa          : Ngaglik
+Kecamatan         : Ngaglik
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Teknisi
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-17 ===
+NIK               : 320101000017
+Nama              : Lestari Putri
+Tempat Lahir      : Bantul
+Tanggal Lahir     : 15-05-2002
+Alamat            : Bantul
+RT/RW             : 17/04
+Kel/Desa          : Kasihan
+Kecamatan         : Kasihan
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-18 ===
+NIK               : 320101000018
+Nama              : Hendra Wijaya
+Tempat Lahir      : Semarang
+Tanggal Lahir     : 28-01-1995
+Alamat            : Semarang
+RT/RW             : 18/02
+Kel/Desa          : Tembalang
+Kecamatan         : Tembalang
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Sales
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-19 ===
+NIK               : 320101000019
+Nama              : Sari Permata
+Tempat Lahir      : Jogja
+Tanggal Lahir     : 11-11-2001
+Alamat            : Jogja
+RT/RW             : 19/03
+Kel/Desa          : Jetis
+Kecamatan         : Jetis
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : Barista
+Kewarganegaraan   : WNI
+-----------------------------
+
+=== Data KTP ke-20 ===
+NIK               : 320101000020
+Nama              : Yoga Pradana
+Tempat Lahir      : Bantul
+Tanggal Lahir     : 06-06-1996
+Alamat            : Bantul
+RT/RW             : 20/01
+Kel/Desa          : Pandak
+Kecamatan         : Pandak
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Montir
+Kewarganegaraan   : WNI
+-----------------------------
